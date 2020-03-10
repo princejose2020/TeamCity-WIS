@@ -15,7 +15,7 @@ if($result['success'] === 0) {
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Login to WIS!</title>
+<title>Login to WIS!!</title>
 <link href="css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <link rel="stylesheet" href="css/style.css">
 <script src="js/bootstrap.min.js"></script>
